@@ -1,11 +1,3 @@
-1    h1{
-2            font-family: arial, verdana, sans-serif;
-3	     font-size: 100px;
-4	     font-variant: small-caps;
-5	     font-style: italic;
-
-6    }
-7    p{
-8	     font-family: georgia, serif;
-9	     line-height: 50px;
-10   }
+body {
+background: url(background.jpeg) purple no-repeat top center;
+}
